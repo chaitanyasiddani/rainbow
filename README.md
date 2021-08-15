@@ -1,2 +1,2 @@
 # rainbow
-rainbow colors
+Rainbow colors
